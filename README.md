@@ -1,0 +1,2 @@
+# LemonTimer
+For timing speedsolves
