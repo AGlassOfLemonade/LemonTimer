@@ -1,2 +1,2 @@
-# LemonTimer
+# LemonadeTimer
 For timing speedsolves
